@@ -248,4 +248,3 @@ Today I moved beyond the basics of qubits and learned how quantum states are rep
 
 ---
 
-This format will look professional on GitHub while still reflecting that these are **your own study notes**, not copied documentation.
