@@ -1,4 +1,3 @@
-Based on your handwritten notes, here's a **GitHub-ready `README.md`** for **Day 03**. I've kept it clean, educational, and like a student's learning journal rather than something AI-generated.
 
 ---
 
