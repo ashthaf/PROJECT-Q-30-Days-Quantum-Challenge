@@ -1,39 +1,4 @@
-Your notes are well structured and easy to follow. They cover the four fundamental single-qubit gates (X, Y, Z, H), explain them with intuition, include Bloch Sphere rotations, and end with a comparison table. This is perfect for a "Day 06" learning update on LinkedIn.
 
----
-
-# 🚀 LinkedIn Caption – Day 06
-
-**📅 Day 06/30 – Quantum Computing Challenge ⚛️**
-
-Today's learning focused on one of the most fundamental concepts in quantum computing: **Quantum Gates**.
-
-Unlike classical logic gates that operate on bits (0 or 1), quantum gates operate on **qubits**, allowing quantum computers to manipulate quantum states through reversible operations.
-
-### 🔹 Topics I covered today:
-
-✅ Classical Gates vs Quantum Gates
-✅ Why Quantum Gates are Reversible
-✅ X Gate (Quantum NOT Gate)
-✅ Y Gate (Flip + Phase Change)
-✅ Z Gate (Phase Flip)
-✅ Hadamard (H) Gate & Superposition
-✅ Bloch Sphere Rotations
-✅ Why the H Gate is the foundation of many quantum algorithms
-
-One of the biggest takeaways today was understanding that **not every quantum gate changes what you measure**—some gates only modify the **phase**, which later influences computation through **quantum interference**.
-
-It's fascinating how a simple gate like the Hadamard can place a qubit into superposition, enabling quantum computers to explore multiple computational paths simultaneously.
-
-Every day I'm building a stronger foundation in Quantum Computing while documenting my journey publicly.
-
-📖 Learning. Practicing. Growing.
-
-#QuantumComputing #QuantumGates #Qubit #IBMQuantum #Qiskit #QuantumAlgorithms #BlochSphere #Superposition #TechLearning #ContinuousLearning #30DaysChallenge #OpenToWork
-
----
-
-# 📂 GitHub Notes (README.md)
 
 ```markdown
 # Day 06 - Quantum Gates
