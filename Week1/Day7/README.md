@@ -113,7 +113,7 @@ This demonstrates quantum randomness.
 
 ### QRNG Output
 
-![QRNG](screenshots/qrng-output.png)
+![QRNG](screenshots/qrng.png)
 
 ---
 
